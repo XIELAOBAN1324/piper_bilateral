@@ -1,0 +1,13 @@
+.venv/
+.agents/
+.codex/
+.vscode/
+.ros/
+.runtime/
+data/
+log/
+video/
+**/.git.backup/
+build/
+__pycache__/
+*.pyc
